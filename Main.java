@@ -15,7 +15,7 @@ class Main {
     double d = 100.5455;
 
     // automatic type conversion
-    char c = ;
+    char c = 5;
 
     // automatic type conversion
     short s = 5; 
